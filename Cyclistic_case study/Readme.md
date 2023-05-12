@@ -95,6 +95,13 @@ Format as General or as a number with no decimals, noting that
 1 = Sunday and 7 = Saturday.
 #### Now the data is completely clean , Now that your data is stored appropriately and has been prepared for analysis, start putting it to work.
 
+I combined the all 12 month trip data files in to single file using python,because the file is large using python is an efficient way
+1. Read the all csv files in to dataframe
+<img width="868" alt="image" src="https://github.com/sarojinimandapati/GDA-Projects/assets/124454596/d912d9b9-bf0f-45bd-b4f1-c31daf83fa3c">
+
+2. combine them into a single file
+<img width="862" alt="image" src="https://github.com/sarojinimandapati/GDA-Projects/assets/124454596/00fd624a-2843-406d-a9ac-4478f230edbd">
+
 
 
 
