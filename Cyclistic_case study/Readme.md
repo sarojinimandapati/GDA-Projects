@@ -131,11 +131,12 @@ Moreno tasked the marketing analytics department to design effective strategies 
 
 Here are some Marketing strategies:
 Annual members: Target young professionals and students with promotions and incentives
-                            Promotions: Discounted annual membership and referral bonus
-                            Incentives: Exclusive access to new bikes and features
+* Promotions: Discounted annual membership and referral bonus
+* Incentives: Exclusive access to new bikes and features
+
 Casual members: Target tourists and occasional riders with seasonal promotions and discounts
-                             Promotions: Summer discounts and holiday specials
-                             Incentives: Free bike rentals for hotel guests and tour packages
+* Promotions: Summer discounts and holiday specials
+* Incentives: Free bike rentals for hotel guests and tour packages
 
 
 
