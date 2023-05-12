@@ -103,6 +103,20 @@ I combined the all 12 month trip data files in to single file using python,becau
 <img width="862" alt="image" src="https://github.com/sarojinimandapati/GDA-Projects/assets/124454596/00fd624a-2843-406d-a9ac-4478f230edbd">
 
 
+# Analyze
+
+#### For a summary and overall visualization of my full year analysis, please visit the Tableau Public dashboard I created here(https://public.tableau.com/app/profile/sarojini.mandapati/viz/cyclisticbikeanalysis-2022/Dashboard1)
+
+# Share
+I am sharing my findings to the audience using powerpoint presentation
+you can view the presentation please visit the presentation ppt in the file that i am sharing.
+
+# Act
+
+
+
+
+
 
 
 
