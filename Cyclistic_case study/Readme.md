@@ -1,4 +1,6 @@
 # About the company
+![image](https://github.com/sarojinimandapati/GDA-Projects/assets/124454596/161b513e-c783-4a1a-973e-5916f8203c10)
+
 In 2016, Cyclistic launched a successful bike-share offering. Since then, the program has grown to a fleet of 5,824 bicycles that
 are geotracked and locked into a network of 692 stations across Chicago. The bikes can be unlocked from one station and
 returned to any other station in the system anytime.
@@ -105,13 +107,36 @@ I combined the all 12 month trip data files in to single file using python,becau
 
 # Analyze
 
-#### For a summary and overall visualization of my full year analysis, please visit the Tableau Public dashboard I created here(https://public.tableau.com/app/profile/sarojini.mandapati/viz/cyclisticbikeanalysis-2022/Dashboard1)
+#### For a summary and overall visualization of my full-year analysis, please visit the Tableau Public dashboard I created here(https://public.tableau.com/app/profile/sarojini.mandapati/viz/cyclisticbikeanalysis-2022/Dashboard1)
 
+### Observations
+
+* Cyclistic members have more trips compared to casual riders
+* The classic bicycle was the most famous among both types of users. However, it is to note that the docked bicycle is much more prevalent among casual riders.
+*  The average ride length of a trip for both annual and casual riders is <1 hour(in mins)
+*  Both users have the highest number of trips taken in the summer season from May to August. However annual members are consistently traveling the entire year , and casual riders are frequently taking during summer
+*  Members are traveling highly on weekdays and lesser on weekend days, so members using for commuting to work, Casual members ride on weekends than on weekdays, This means we can say casual members are using cycles for mostly leisure or exercise.
+*  Both users recorded the most activity at 5 PM and 8 AM. Casual members constantly increase up to 5 PM However, Cyclistic members have also recorded the most activity at 8 AM, indicating the use of bike-share services to commute to work.
+
+  
 # Share
-I am sharing my findings to the audience using powerpoint presentation
-you can view the presentation please visit the presentation ppt in the file that i am sharing.
+Now that you have performed your analysis and gained some insights into your data, create visualizations to share your
+findings. Moreno has reminded you that they should be sophisticated and polished to effectively communicate to the
+executive team.
+I am sharing my findings with the audience using a PowerPoint presentation
+you can view the presentation, please visit the presentation ppt in the file that I am sharing.
 
 # Act
+Moreno tasked the marketing analytics department to design effective strategies to maximize the number of annual memberships by converting casual riders of Cyclistic into Annual members
+
+Here are some Marketing strategies:
+Annual members: Target young professionals and students with promotions and incentives
+                            Promotions: Discounted annual membership and referral bonus
+                            Incentives: Exclusive access to new bikes and features
+Casual members: Target tourists and occasional riders with seasonal promotions and discounts
+                             Promotions: Summer discounts and holiday specials
+                             Incentives: Free bike rentals for hotel guests and tour packages
+
 
 
 
